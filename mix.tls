@@ -1,4 +1,4 @@
-Last update: Wed Aug 28 11:32:21 UTC 2024 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Tue Sep  3 10:45:47 UTC 2024 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 binski=pimarq.binski.net,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,yes,no,yes
@@ -10,9 +10,10 @@ frell2=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,n
 hsub=fleegle.mixmin.net,10,yes,yes,no,yes
 ipsum=ipsum.eocto.net,10,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
+paranoia=remailer.paranoici.org,10,yes,yes,yes,no
 shalo=ecosse.shalo.ca,10,yes,no,no,no
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
-tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
 tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
+tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
 tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
 tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
