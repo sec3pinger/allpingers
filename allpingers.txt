@@ -1,9 +1,24 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Tue, 24 Dec 2024
+# Updated: Sat, 1 Feb 2025
 # This list was last updated by SEC3
 # Please email corrections/issues to: pinger-admin@sec3.net
 #
+
+[barnish]
+base        = https://barnish.org/echolot/
+rlist       = https://barnish.org/echolot/rlist.txt
+mlist       = https://barnish.org/echolot/mlist.txt
+rlist2      = https://barnish.org/echolot/rlist2.txt
+mlist2      = https://barnish.org/echolot/mlist2.txt
+rlist_html  = https://barnish.org/echolot/rlist.html
+mlist_html  = https://barnish.org/echolot/mlist.html
+rlist2_html = https://barnish.org/echolot/rlist2.html
+mlist2_html = https://barnish.org/echolot/mlist2.html
+pgpring     = https://barnish.org/echolot/pgp-all.asc
+pgpring_rsa = https://barnish.org/echolot/pgp-rsa.asc
+mixring     = https://barnish.org/echolot/pubring.mix
+type2list   = https://barnish.org/echolot/type2.list
 
 [frell]
 base        = http://echolot.theremailer.net/sideview/
