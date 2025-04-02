@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sat, 1 Feb 2025
+# Updated: Wed, 2 Apr 2025
 # This list was last updated by SEC3
 # Please email corrections/issues to: pinger-admin@sec3.net
 #
@@ -34,21 +34,6 @@ pgpring     = http://echolot.theremailer.net/sideview/pgp-all.asc
 pgpring_rsa = http://echolot.theremailer.net/sideview/pgp-rsa.asc
 mixring     = http://echolot.theremailer.net/sideview/pubring.mix
 type2list   = http://echolot.theremailer.net/sideview/type2.list
-
-[mixmin]
-base        = https://www.mixmin.net/echolot/
-rlist       = https://www.mixmin.net/echolot/rlist.txt
-mlist       = https://www.mixmin.net/echolot/mlist.txt
-rlist2      = https://www.mixmin.net/echolot/rlist2.txt
-mlist2      = https://www.mixmin.net/echolot/mlist2.txt
-rlist_html  = https://www.mixmin.net/echolot/rlist.html
-mlist_html  = https://www.mixmin.net/echolot/mlist.html
-rlist2_html = https://www.mixmin.net/echolot/rlist2.html
-mlist2_html = https://www.mixmin.net/echolot/mlist2.html
-pgpring     = https://www.mixmin.net/echolot/pgp-all.asc
-pgpring_rsa = https://www.mixmin.net/echolot/pgp-rsa.asc
-mixring     = https://www.mixmin.net/echolot/pubring.mix
-type2list   = https://www.mixmin.net/echolot/type2.list
 
 [sec3]
 base        = https://www.sec3.net/stats/
