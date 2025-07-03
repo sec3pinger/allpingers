@@ -1,12 +1,14 @@
-Last update: Wed Apr 2 11:42:00 UTC 2025 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Thu Jul  3 10:43:41 UTC 2025 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+banana=fleegle.mixmin.net,10,yes,yes,no,yes
 binski=pimarq.binski.net,10,yes,yes,no,yes
 dizum=smtp.dizum.com,10,yes,yes,no,yes
 frannie=dashe.franxial.com,15,yes,no,no,yes
-frell=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
+frell=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell2=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
 ipsum=ipsum.eocto.net,10,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
 paranoia=remailer.paranoici.org,10,yes,yes,yes,no
 shalo=ecosse.shalo.ca,10,yes,no,no,no
+slow=fleegle.mixmin.net,10,yes,yes,no,yes
