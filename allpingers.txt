@@ -1,9 +1,24 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 16 Oct 2025
+# Updated: Fri, 31 Oct 2025
 # This list was last updated by SEC3
 # Please email corrections/issues to: admin@sec3.net
 #
+
+[archiade]
+base        = https://archiade.net/echolot/
+rlist       = https://archiade.net/echolot/rlist.txt
+mlist       = https://archiade.net/echolot/mlist.txt
+rlist2      = https://archiade.net/echolot/rlist2.txt
+mlist2      = https://archiade.net/echolot/mlist2.txt
+rlist_html  = https://archiade.net/echolot/rlist.html
+mlist_html  = https://archiade.net/echolot/mlist.html
+rlist2_html = https://archiade.net/echolot/rlist2.html
+mlist2_html = https://archiade.net/echolot/mlist2.html
+pgpring     = https://archiade.net/echolot/pgp-all.asc
+pgpring_rsa = https://archiade.net/echolot/pgp-rsa.asc
+mixring     = https://archiade.net/echolot/pubring.mix
+type2list   = https://archiade.net/echolot/type2.list
 
 [frell]
 base        = http://echolot.theremailer.net/sideview/
