@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sun, 8 Feb 2026
+# Updated: Sat, 7 Feb 2026
 # This list was last updated by SEC3
 # Please email corrections/issues to: admin@sec3.net
 #
@@ -49,6 +49,7 @@ pgpring     = https://www.sec3.net/stats/pgp-all.asc
 pgpring_rsa = https://www.sec3.net/stats/pgp-rsa.asc
 mixring     = https://www.sec3.net/stats/pubring.mix
 type2list   = https://www.sec3.net/stats/type2.list
+
 
 
 
