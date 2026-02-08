@@ -1,10 +1,11 @@
-Last update: Fri Oct 31 15:21:00 UTC 2025 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Sat Feb  7 11:43:28 UTC 2026 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 dizum=smtp.dizum.com,10,yes,yes,no,yes
 frannie=dashe.franxial.com,15,yes,no,no,yes
 frell=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
-frell=mail2.frell.eu.org,10,yes,yes,yes,yes
+frell=mail2.frell.eu.org,10,yes,yes,no,yes
 frell2=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
-frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
+frell2=mail2.frell.eu.org,10,yes,yes,no,yes
+iria=iria.oc2mx.net,10,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
-paranoia=remailer.paranoici.org,10,yes,yes,yes,no
+paranoia=remailer.paranoici.org,10,yes,yes,no,no
 yeahno=lanterna.yeahno.net,10,yes,yes,no,yes
