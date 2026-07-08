@@ -1,9 +1,7 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 9 Apr 2026
+# Updated: Wed, 8 Jul 2026
 # This list was last updated by SEC3
-# Please email corrections/issues to: admin@sec3.net
-#
 
 [archiade]
 base        = https://archiade.net/echolot/
