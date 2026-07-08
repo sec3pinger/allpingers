@@ -9,4 +9,4 @@ If you would like to run these scripts yourself and generate your own mix.tls
 file visit the URL below to download all the necessary Perl scripts. There
 are set up instructions in the /mixtls/READ.ME file.
 
-howto-generate-mixtls.zip --> https://lobfile.com/file/BwBzEWvm
+BwBzEWvm.zip --> https://lobfile.com/file/BwBzEWvm
