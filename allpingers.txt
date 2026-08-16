@@ -1,22 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Wed, 8 Jul 2026
-# This list was last updated by SEC3
-
-[archiade]
-base        = https://archiade.net/echolot/
-rlist       = https://archiade.net/echolot/rlist.txt
-mlist       = https://archiade.net/echolot/mlist.txt
-rlist2      = https://archiade.net/echolot/rlist2.txt
-mlist2      = https://archiade.net/echolot/mlist2.txt
-rlist_html  = https://archiade.net/echolot/rlist.html
-mlist_html  = https://archiade.net/echolot/mlist.html
-rlist2_html = https://archiade.net/echolot/rlist2.html
-mlist2_html = https://archiade.net/echolot/mlist2.html
-pgpring     = https://archiade.net/echolot/pgp-all.asc
-pgpring_rsa = https://archiade.net/echolot/pgp-rsa.asc
-mixring     = https://archiade.net/echolot/pubring.mix
-type2list   = https://archiade.net/echolot/type2.list
+# Updated: Sun, 16 Aug 2026
 
 [frell]
 base        = http://echolot.theremailer.net/sideview/
@@ -32,19 +16,3 @@ pgpring     = http://echolot.theremailer.net/sideview/pgp-all.asc
 pgpring_rsa = http://echolot.theremailer.net/sideview/pgp-rsa.asc
 mixring     = http://echolot.theremailer.net/sideview/pubring.mix
 type2list   = http://echolot.theremailer.net/sideview/type2.list
-
-[sec3]
-base        = https://www.sec3.net/stats/
-rlist       = https://www.sec3.net/stats/rlist.txt
-mlist       = https://www.sec3.net/stats/mlist.txt
-rlist2      = https://www.sec3.net/stats/rlist2.txt
-mlist2      = https://www.sec3.net/stats/mlist2.txt
-rlist_html  = https://www.sec3.net/stats/rlist.html
-mlist_html  = https://www.sec3.net/stats/mlist.html
-rlist2_html = https://www.sec3.net/stats/rlist2.html
-mlist2_html = https://www.sec3.net/stats/mlist2.html
-pgpring     = https://www.sec3.net/stats/pgp-all.asc
-pgpring_rsa = https://www.sec3.net/stats/pgp-rsa.asc
-mixring     = https://www.sec3.net/stats/pubring.mix
-type2list   = https://www.sec3.net/stats/type2.list
-
